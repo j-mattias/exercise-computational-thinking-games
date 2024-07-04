@@ -13,7 +13,7 @@ Ett tärningspel där användaren ska kasta 1st tärning. Vid första kastet ska
 * Du som spelare väljer ett “knock out number” – antingen 6, 7, 8, eller 9.
 * Du som spelare väljer också vilken poäng som skall uppnås för att spelet skall avslutas.
 * Spelaren kastar båda tärningarna. Anteckna varje kasts resultat.
-* Om spelaren kastar något utav "knock out numbers" ges minuspoäng
+* Om spelaren kastar det angivna "knock out number" så ges minuspoäng
 
 
 ## Going to Boston
